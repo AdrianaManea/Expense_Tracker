@@ -107,7 +107,7 @@ input[type='text'], input[type='number'] {
   border: 0;
   display: block;
   font-size: 16px;
-  margin: 15px 0 30px;
+  margin: 15px 0;
   padding: 10px;
   width: 100%;
 }
@@ -161,3 +161,16 @@ input[type='text'], input[type='number'] {
 .list li:hover .delete-btn {
   opacity: 1;
 }
+
+/* .alert {
+  display: flex;
+  justify-content: space-between;
+}
+
+button.alert {
+  text-align: center;
+  background-color: var(--secondary-color);
+  color: #fff;
+  padding: 10px;
+} */
+
